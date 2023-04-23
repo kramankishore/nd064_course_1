@@ -12,6 +12,6 @@ spec:
     helm:
       valueFiles:
       - values-prod.yaml
-    path: helm
-    repoURL: ../ 
+    path: added_by_raman/helm
+    repoURL:  https://github.com/kramankishore/nd064_course_1
     targetRevision: HEAD

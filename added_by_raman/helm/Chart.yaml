@@ -1,0 +1,8 @@
+apiVersion: v3.11.1
+name: nginx-deployment
+version: 1.0.0
+keywords:
+  - nginx
+home: The URL of this projects home page (optional)
+sources:
+  - A list of URLs to source code for this project (optional)

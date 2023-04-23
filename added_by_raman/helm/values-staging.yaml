@@ -7,5 +7,5 @@ image:
 resources:
   CPU: 50m
   memory: 128Mi
-configmap_data:
-  version: 1.18.0
+configmap:
+  data: "version: 1.18.0"
